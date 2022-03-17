@@ -1,0 +1,18 @@
+{
+  "name": "mysql-migration-test-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayesh Vinida",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.1",
+    "db-migrate": "^0.11.13",
+    "db-migrate-mysql": "^2.2.0",
+    "dotenv": "^16.0.0",
+    "mysql": "^2.18.1"
+  }
+}
